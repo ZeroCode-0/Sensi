@@ -1,6 +1,6 @@
 # Reel: ৯টা পেইড AI টুলের ফ্রি বিকল্প
 
-> ✅ **চূড়ান্ত ভিডিও (ElevenLabs ভয়েস সহ, ৪৫ সেকেন্ড): `youtube/reel-free-ai-tools-FINAL.mp4`**
+> ✅ **চূড়ান্ত ভিডিও (ElevenLabs ভয়েস সহ, ৪৫ সেকেন্ড): `youtube/reel-free-ai-tools-FINAL.mp4`** — প্রতিটা টুলে আগে পেইড টুলের স্থির কার্ড (স্বাভাবিক গতি), তারপর ফ্রি টুলের GitHub স্ক্রিনশট প্রতি ০.২৮ সেকেন্ডে বদলায় (দ্রুত গতি)। "8x SPEED" লেখা নেই।
 >
 > NexDeve · 9:16 · **৪১ সেকেন্ড**
 > - `youtube/reel-free-ai-tools.mp4` — whoosh/pop সাউন্ড সহ
